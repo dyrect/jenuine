@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Scotch Box
 ==========
 
@@ -179,3 +180,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
  [15]: https://github.com/smdahlen/vagrant-hostmanager
  [16]: http://box.scotch.io
  [17]: http://scotch.io/bar-talk/introducing-scotch-box-a-vagrant-lamp-stack-that-just-works
+=======
+# jenuine
+Jenuine Ambition Website
+>>>>>>> 773105b3e77b34f0a35c934f70ad24ba7089fd17
