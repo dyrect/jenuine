@@ -1,2 +1,0 @@
-# jenuine
-Jenuine Ambition Website
